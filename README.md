@@ -261,7 +261,7 @@ Le backend sera disponible sur `http://localhost:8084`
 
 ### Frontend
 ```bash
-cd frontend_
+cd frontend
 npm install
 npm start
 ```
